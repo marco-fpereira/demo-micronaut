@@ -1,0 +1,11 @@
+micronaut:
+  application:
+    name: demoMicronautJava
+
+  server:
+    port:
+      8081
+
+hello:
+  world:
+    message: "hello from config!"
